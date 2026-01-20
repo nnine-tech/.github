@@ -86,25 +86,7 @@ We work with modern technologies to deliver exceptional results:
 
 ---
 
-## 🌟 Our Projects
 
-Explore our repositories to see the innovative solutions we're building. We believe in open collaboration and transparent development.
-
----
-
-## 🤝 Get Involved
-
-We welcome contributions, collaborations, and partnerships! Whether you're a developer, designer, or business looking for technical solutions, we'd love to hear from you.
-
-### Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📫 Contact Us
 
@@ -113,7 +95,7 @@ Have a project in mind? Want to collaborate? Reach out to us!
 **Email:** [info@nnine.tech](mailto:info@nnine.tech)  
 **Alternative:** [nninesolutions@gmail.com](mailto:nninesolutions@gmail.com)  
 **Phone:** +977-01-5520559 / +977-01-9250399  
-**Address:** White House Building, Ganesthan, Chabahil, Kathmandu, Nepal
+**Address:** Fifth Floor White House Building, Ganesthan, Chabahil, Kathmandu, Nepal
 
 **Business Hours:**  
 Monday - Friday: 9:00 AM to 6:00 PM (NPT)
